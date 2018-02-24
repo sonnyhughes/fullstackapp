@@ -1,0 +1,25 @@
+{
+  "name": "fullstackapp",
+  "version": "1.0.0",
+  "description": "First Fullstack Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnyhughes/fullstackapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonnyhughes/fullstackapp/issues"
+  },
+  "homepage": "https://github.com/sonnyhughes/fullstackapp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
